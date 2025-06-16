@@ -1,1 +1,3 @@
 # Wireshark-Temel-Ag-Trafigi-Analizi
+
+Bu proje, Wireshark programına bir giriş niteliğinde olup, belirli bir web sayfasına yapılan ziyaret sırasında oluşan ağ trafiğini yakalama ve analiz etme sürecini kapsamaktadır. Yakalanan .npcap dosyası üzerinden, toplam yakalama süresi ve paket sayısı gibi temel istatistikler çıkarılmış, ortalama trafik hızı hesaplanmış ve TCP, DNS, HTTP gibi farklı protokollerin varlığı tespit edilmiştir. Son olarak, Wireshark'in filtreleme özelliği kullanılarak yalnızca HTTP paketleri izole edilmiş ve bu sayede bir web isteğinin temel yapısı incelenerek paket analizinin temelleri pratik bir şekilde uygulanmıştır.
